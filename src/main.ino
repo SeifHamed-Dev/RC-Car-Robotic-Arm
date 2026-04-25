@@ -1,6 +1,6 @@
 
 // RC Car with Robotic Arm
-// Author: Seif Hamed Atia
+// Author: Seifoo
 
 void setup() {
   // Setup code here
